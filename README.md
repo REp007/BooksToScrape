@@ -1,6 +1,9 @@
 <h1>📚 Web Scraping Books Website</h1>
 
-<h5>👍You can access the code as a format ipynb 'Jupyter notebook'</h5>
+<h5>👍You can access the code as a format ipynb [a relative link](BooksToScrapeV3.ipynb)</h5>
+<br>
+<br>
+<br>
 In this web scraping project, I will be extracting data from a book's website to gather information about different books. The purpose of this project is to collect data such as book titles, authors, ratings, prices, and other relevant details.
 
 The web scraping process will involve writing a Python script using libraries such as BeautifulSoup and requests. These libraries will allow us to parse the HTML structure of the website, navigate through the pages, and extract the desired data.
